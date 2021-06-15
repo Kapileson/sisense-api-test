@@ -1,0 +1,14 @@
+{
+  "dev":
+  {
+    "data_model_id": "",
+    "dashboard_id": "",
+    "widget_name": ""
+  },
+  "prod":
+  {
+    "data_model_id": "",
+    "dashboard_id": "",
+    "widget_name": ""
+  }
+}

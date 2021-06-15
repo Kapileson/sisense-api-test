@@ -1,0 +1,13 @@
+fileignoreconfig:
+- filename: resources/dashboard_name/queries/widget_name.sql
+  checksum: 1017227e9c4754ff45954562869798499352a53c9bdd7f51a9cdd4889d5b5097
+- filename: resources/environment.json
+  checksum: 12fdb7d48da1454ad6487cfc2531d76069a6a5a4c05d543749df87879ec9803b
+- filename: build/run.sh
+  checksum: 3b772237d7428e227f1cde42c8985ef63dbeeee795516fb41bcf17dce2a189ff
+- filename: src/utils/authenticator.py
+  checksum: a2cb3888d39040fe0cace4a5e3e62a117208251eaadc52ee54dd62b014ef8e51
+- filename: src/utils/mail_handler.py
+  checksum: a95143362c07a5f3b9189148105afd132fe43cdc264038e81b0f16fea52fcec8
+- filename: src/utils/comparator.py
+  checksum: 1f9f60438cc48c3938d4937201fd27b85532a6c1823007258aad268b220fd8a0

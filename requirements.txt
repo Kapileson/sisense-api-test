@@ -1,0 +1,8 @@
+google
+pytest
+requests
+pytest-html
+google-cloud-bigquery
+pybigquery
+pytest-xdist==1.33.0
+google-cloud-storage

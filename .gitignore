@@ -1,0 +1,22 @@
+#virtual env
+venv/
+env/
+
+#cache
+.pytest_cache/
+__pycache__/
+assets/
+.pyc
+
+#intellij
+.DS_Store
+.idea/
+
+#html
+report.html
+
+#env file
+env.sh
+
+#secrets
+gcp_credentials.json
