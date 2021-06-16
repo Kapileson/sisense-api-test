@@ -31,7 +31,7 @@ class BigQueryHandler:
         headers = []
         list_output = []
         query_job = self.client.query(query)
-        for row in query_job:
+        for row in   query_job:
             if len(headers) == 0:
                 headers = [f for f in row.keys()]
             result = {}
